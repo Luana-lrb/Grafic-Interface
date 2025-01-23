@@ -13,7 +13,7 @@ A aplicação possui três janelas principais:
 ## Funcionalidades  
 - Adicionar livros e revistas com campos específicos (exemplo: título, autor, ano, etc.).  
 - Visualizar uma lista completa de todas as obras cadastradas.
-- 
+
 ---
 
 # Graphical User Interface for Work Management  
